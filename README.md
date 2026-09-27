@@ -7,17 +7,17 @@ when i'm not shipping, i'm on my mtb 🚵 or chasing waves 🏄
 - **[komercia-mcp](https://github.com/gusplayer/komercia-mcp)** — talk to your ecommerce store from claude (open source)
 - **[clarvi](https://clarvi.app)** — ai product photography for latam smbs
 - **squad** — desktop app to orchestrate multiple claude code agents
-- **vesper** — _una línea_
+- **vesper** — no social, less phone, focus on important things
 - **kizuna** — strava for dogs 🐕
 
 ### 💼 day job
 senior pm @ mawi — construction fintech for latam, fully remote
 
 ### 📦 shipped
-- **komercia** — co-founded an ecommerce saas for latam. 9.1k stores, $45M+ gmv. backed by parallel18 & uf ventures
+- **komercia** — co-founded an ecommerce saas for latam. +15k stores, $45M+ gmv. backed by parallel18,statrup Chile & uf ventures
 - **kiwi financial** — founding cto, grew eng from 1 → 10
 - **goodrec** — head of engineering, 500k users
-- **foster** — _tu rol_
+- **foster** — ceo / tech
 
 ### 🌎 worked from
 🇦🇺 australia · 🇺🇸 usa · 🇵🇷 puerto rico · 🇲🇽 mexico · 🇨🇴 colombia
@@ -29,4 +29,4 @@ parallel18 · startup chile · platzi startups · yc startup school · berkeley 
 typescript · react / react native · nestjs · postgres · aws · claude code (multi-agent)
 
 ---
-📫 [linkedin](https://www.linkedin.com/in/gusplayer/) · [x](tu-link) · tu@email
+📫 [linkedin](https://www.linkedin.com/in/gusplayer/) 
