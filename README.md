@@ -1,16 +1,32 @@
-## Hi there 👋
+hey, i'm gustavo 👋
 
-<!--
-**gusplayer/gusplayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build internet products from a tiny town in the colombian llanos 🌴🇨🇴
+when i'm not shipping, i'm on my mtb 🚵 or chasing waves 🏄
 
-Here are some ideas to get you started:
+### 🛠 building now
+- **[komercia-mcp](https://github.com/gusplayer/komercia-mcp)** — talk to your ecommerce store from claude (open source)
+- **[clarvi](https://clarvi.app)** — ai product photography for latam smbs
+- **squad** — desktop app to orchestrate multiple claude code agents
+- **vesper** — _una línea_
+- **kizuna** — strava for dogs 🐕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 day job
+senior pm @ mawi — construction fintech for latam, fully remote
+
+### 📦 shipped
+- **komercia** — co-founded an ecommerce saas for latam. 9.1k stores, $45M+ gmv. backed by parallel18 & uf ventures
+- **kiwi financial** — founding cto, grew eng from 1 → 10
+- **goodrec** — head of engineering, 500k users
+- **foster** — _tu rol_
+
+### 🌎 worked from
+🇦🇺 australia · 🇺🇸 usa · 🇵🇷 puerto rico · 🇲🇽 mexico · 🇨🇴 colombia
+
+### 🎓 alum
+parallel18 · startup chile · platzi startups · yc startup school · berkeley haas exec program
+
+### ⚙️ stack
+typescript · react / react native · nestjs · postgres · aws · claude code (multi-agent)
+
+---
+📫 [linkedin](https://www.linkedin.com/in/gusplayer/) · [x](tu-link) · tu@email
