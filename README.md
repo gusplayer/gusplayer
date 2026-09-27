@@ -1,6 +1,6 @@
 hey, i'm Gus 👋
 
-i build AI products from a tiny town in the colombian 🌴🇨🇴
+i build AI products from a tiny town in the colombian llanos 🌴🇨🇴
 when i'm not shipping, i'm on my mtb 🚵, running or 🏄
 
 Day job > AI product @ mawi — AI construction fintech for latam
