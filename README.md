@@ -24,7 +24,4 @@ Day job > AI product @ mawi — AI construction fintech for latam
 🎓 alum
 parallel18 · startup chile · platzi startups · yc startup school · berkeley haas exec program
 
-⚙️ stack
-typescript · react / react native · nestjs · postgres · aws · claude code (multi-agent)
-
 📫 [linkedin](https://www.linkedin.com/in/gusplayer/) 
